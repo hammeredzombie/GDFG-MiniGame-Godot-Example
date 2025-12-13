@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+.editorconfig
+/.vscode
+/build
+.gitattributes
+export_presets.cfg
