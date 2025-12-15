@@ -4,6 +4,8 @@ This is a simple example of how to use the GDFG MiniGame Score reporter and debu
 
 You can start from this project or copy files into your own project following the instructions below.
 
+![Demo](./demo.gif)
+
 # Setup
 
 Copy the following files into your /scenes folder:
